@@ -1,5 +1,7 @@
 ###This code takes a data frame, and returns the results as a table in a word document
 
+#R package: ReporteRs (http://davidgohel.github.io/ReporteRs/index.html)
+
 library( ReporteRs )  
 
 # Creation of doc, a docx object
